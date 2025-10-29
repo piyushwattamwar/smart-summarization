@@ -1,6 +1,8 @@
+Order of Exection of Code<br/>
 python src/preprocessing.py <br/>
 python src/create_document_data.py<br/>
 python src/document_preprocessing.py<br/>
+<br/>
 🧩 Phase 1: Preprocessing Pipeline Overview
 🎯 Objective
 
@@ -88,4 +90,5 @@ Saves the cleaned version as document_cleaned.csv.
 Output:
 
 data/document_cleaned.csv (Ready for Summarization)
+
 
