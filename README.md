@@ -1,6 +1,6 @@
-python src/preprocessing.py
-python src/create_document_data.py
-python src/document_preprocessing.py
+python src/preprocessing.py <br/>
+python src/create_document_data.py<br/>
+python src/document_preprocessing.py<br/>
 🧩 Phase 1: Preprocessing Pipeline Overview
 🎯 Objective
 
@@ -88,3 +88,4 @@ Saves the cleaned version as document_cleaned.csv.
 Output:
 
 data/document_cleaned.csv (Ready for Summarization)
+
